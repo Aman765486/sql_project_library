@@ -1,4 +1,3 @@
-# sql_project_library
 -- Library Management System Project 2.
 
 -- Creating Branch table.

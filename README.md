@@ -1,4 +1,4 @@
--- Library Management System Project 2.
+-- Library Management System Project .
 
 -- Creating Branch table.
 DROP TABLE IF EXISTS branch;
